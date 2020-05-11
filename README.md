@@ -9,9 +9,9 @@ This ebook was created by Dave Thomas
 - [X] Elixir Basics
 - [X] Anonymous Functions
 - [X] Modules and Named Functions
-- [ ] Maps, Keyword Lists, Sets, and Structs
-- [ ] An Aside—What Are Types?
-- [ ] Strings and Binaries
+- [X] Maps, Keyword Lists, Sets, and Structs
+- [X] An Aside—What Are Types?
+- [X] Strings and Binaries
 - [ ] Control Flow
 - [ ] Organizing a Project
 - [ ] Tooling
