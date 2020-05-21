@@ -12,8 +12,8 @@ This ebook was created by Dave Thomas
 - [X] Maps, Keyword Lists, Sets, and Structs
 - [X] An Aside—What Are Types?
 - [X] Strings and Binaries
-- [ ] Control Flow
-- [ ] Organizing a Project
-- [ ] Tooling
+- [X] Control Flow
+- [X] Organizing a Project
+- [X] Tooling
 - [ ] Concurrent Programming
 - [ ] More Advanced Elixir
