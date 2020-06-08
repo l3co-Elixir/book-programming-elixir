@@ -15,5 +15,5 @@ This ebook was created by Dave Thomas
 - [X] Control Flow
 - [X] Organizing a Project
 - [X] Tooling
-- [ ] Concurrent Programming
+- [X] Concurrent Programming
 - [ ] More Advanced Elixir
