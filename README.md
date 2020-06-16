@@ -16,4 +16,4 @@ This ebook was created by Dave Thomas
 - [X] Organizing a Project
 - [X] Tooling
 - [X] Concurrent Programming
-- [ ] More Advanced Elixir
+- [X] More Advanced Elixir
