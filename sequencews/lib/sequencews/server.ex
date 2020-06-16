@@ -1,6 +1,10 @@
 defmodule Sequencews.Server do
   use GenServer
 
+  def start_link(default) when is_number(default) do
+    GenServer.start_link(__MODULE__, default)
+  end
+
   def init(initial_number) do
     {:ok, initial_number}
   end
